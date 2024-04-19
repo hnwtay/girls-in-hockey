@@ -8,6 +8,6 @@ With the growth of hockey within the United States and the recent innagural seas
 
 
 
-All data is publicly available on https://www.usahockey.com/membershipstats
+All data is publicly available on https://www.usahockey.com/membershipstats <br>
 Data sets were downloaded in pdf format then relevant tables extracted and compiled using Okular and Microsoft Excel. All processing and analysis was performed in Jupyter Notebooks using Python.
 
